@@ -13,7 +13,9 @@ I want to visit Italy because of its culture and scenery. I have recently looked
 
 # Japan
 I want to visit Japan due to the culture and cuisine. Japanese Culture is quite different from American culture. It would be fun to experience that culture. Also, I love ramen! :) I would be so happy if I could try a bowl of **authentic** Japanese Ramen in Japan!
-![Ramen](repoImages/tonkotsuramenfront.jpg)\
+![Ramen](repoImages/tonkotsuramenfront.jpg)
+
+
 
 [Review of Japanese Ramen](https://www.forbes.com/sites/geoffreymorrison/2016/05/30/the-best-ramen-in-the-world-japans-ichiran-ramen/#592a075e28cd)
 
