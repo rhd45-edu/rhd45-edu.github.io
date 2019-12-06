@@ -17,7 +17,7 @@ I want to visit Japan due to the culture and cuisine. Japanese Culture is quite 
 
 # France
 I want to visit France due to the culture and cuisine. I enjoy cooking different types of foods with different methods. France is known to have quite the cuisine. One of my goals is to taste a **french croissant**. 
-![French Croissant](repoImages/Classic-French-Croissant-Recipe-71.jpg)
+![French Croissant](https://github.com/rhd45-edu/rhd45-edu.github.io/blob/master/repoImages/Classic-French-Croissant-Recipe-71.jpg?raw=true)
 [Making French Croissants](https://www.youtube.com/watch?v=2OAUM0MRgQw)
 # China
 I want to visit China because of its extensive history and culture. China is one of the oldest countries in the world. I believe it would be beneficial to experience the culture of a nation that has been through much over its history that spans thousands of years.
