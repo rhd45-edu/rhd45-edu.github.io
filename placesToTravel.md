@@ -7,13 +7,13 @@ I feel that everyone should travel the world at least once in their life. There 
 
 # Italy
 I want to visit Italy because of its culture and scenery. I have recently looked into study abroad with the College of Engineering! The view of the ocean looks amazing! It is something I could not experience here in the states. I am also curious about the culture in Italy. I think it would be a blast to experience it. 
-![Venice](repoImages/venice-italy-highlights-guide-900x600.jpg)
+![Venice](repoImages/venice-italy-highlights-guide-900x600.jpg)\
 
 [Things to do in Italy](https://www.independent.ie/life/travel/europe/the-italian-bucket-list-25-things-to-do-in-italy-before-you-die-36014917.html)
 
 # Japan
 I want to visit Japan due to the culture and cuisine. Japanese Culture is quite different from American culture. It would be fun to experience that culture. Also, I love ramen! :) I would be so happy if I could try a bowl of **authentic** Japanese Ramen in Japan!
-![Ramen](repoImages/tonkotsuramenfront.jpg)
+![Ramen](repoImages/tonkotsuramenfront.jpg)\
 [Review of Japanese Ramen](https://www.forbes.com/sites/geoffreymorrison/2016/05/30/the-best-ramen-in-the-world-japans-ichiran-ramen/#592a075e28cd)
 
 # France
