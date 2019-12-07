@@ -1,3 +1,4 @@
+[Previous Page: Where I want to Travel](placesToTravel.md)
 # Places to Travel 
 I feel that everyone should travel the world at least once in their life. There is so much to the world that we do not know. Below are a few places I would like to visit and why: 
 - [*Italy*](#italy)
@@ -29,4 +30,6 @@ I want to visit China because of its extensive history and culture. China is one
  [Things to Do In China](https://www.planetware.com/tourist-attractions/china-chn.htm)
  
 [Return to Top of Page](#places-to-travel)
+
+[Next Page: Hobbies](hobbies.md)
 
