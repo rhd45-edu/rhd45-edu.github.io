@@ -1,3 +1,4 @@
+[Next Page: Where I want to Travel](placesToTravel.md)
 # Hobbies
 
 # Baking
@@ -11,3 +12,5 @@ One of my hobbies is to bake desserts. Before I started to bake, I did not like 
 Another one of my hobbies is cooking. I feel that it is important for everyone to know how to cook. Plus, as a college student, it is better to cook my own food that can last a week rather than spend money on meals that only last a day. One of my favorite dishes to make is salmon with homemade guacamole.
 
 ![Salmon](repoImages/salmon.jpg)
+
+[Return to Home Page](README.md)
