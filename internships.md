@@ -1,4 +1,4 @@
-[Previous Page: Education](Education.md)
+[Previous Page: Education](education.md)
 # Internships
 
 # Shelter Insurance (Summer 2018 - Summer 2019)
