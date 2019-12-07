@@ -1,4 +1,4 @@
-[Previous Page: Where I want to Travel](placesToTravel.md)
+[Previous Page: Internships](internships.md)
 # Places to Travel 
 I feel that everyone should travel the world at least once in their life. There is so much to the world that we do not know. Below are a few places I would like to visit and why: 
 - [*Italy*](#italy)
