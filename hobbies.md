@@ -13,4 +13,6 @@ Another one of my hobbies is cooking. I feel that it is important for everyone t
 
 ![Salmon](repoImages/salmon.jpg)
 
+[Return to Top of Page](#hobbies)
+
 [Return to Home Page](README.md)
