@@ -1,3 +1,4 @@
+[Previous Page: Why Mizzou](whyMizzou.md)
 # Education
 When I was younger, I was fascinated how computers were transforming the world. I wanted to learn more about computers and play a role in the development of future technology. After looking more into different majors, I decided to study Information Technology. 
 
@@ -15,4 +16,4 @@ While in college, I have had the chance to learn different programming languages
     
     print("The final position of the object is " + str(final_position) + " meters.");
 
-[Next Page: Education](education.md)
+[Next Page: Internships](internships.md)
