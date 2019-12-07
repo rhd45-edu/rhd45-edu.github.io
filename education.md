@@ -14,3 +14,5 @@ While in college, I have had the chance to learn different programming languages
     + ( 0.5 * object_acceleration * object_travel_time * object_travel_time));
     
     print("The final position of the object is " + str(final_position) + " meters.");
+
+[Next Page: Education](education.md)
