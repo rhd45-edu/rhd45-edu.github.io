@@ -28,5 +28,5 @@ I want to visit China because of its extensive history and culture. China is one
 
  [Things to Do In China](https://www.planetware.com/tourist-attractions/china-chn.htm)
  
-[Return to Top of Page](#places to travel)
+[Return to Top of Page](#places-to-travel)
 
